@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Name=WebAppCreator
+Exec=./createWebAppGui.py
+Icon=wand.png
+Type=Application
+StartupWMClass=WebAppCreator
